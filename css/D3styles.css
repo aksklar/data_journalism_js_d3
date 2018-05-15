@@ -1,0 +1,27 @@
+.tooltip {
+    position: absolute;
+    width: 145px;
+    height: 70;
+    padding: 2px;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: white;
+    background: slategray;
+    border: 0;
+}
+
+.state-abbr {
+    font-size: 12px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    text-anchor: middle;
+    fill: white;
+}
+
+.axis-text {
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
